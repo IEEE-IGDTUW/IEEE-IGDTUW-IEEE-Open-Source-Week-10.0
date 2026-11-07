@@ -13,6 +13,9 @@
   <a href="https://www.linkedin.com/company/ieee-igdtuw/mycompany/"><img src="https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://x.com/ieeeigdtuw"><img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://discord.gg/2zKh4dp7J"><img src="https://img.shields.io/badge/Discord%20-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://ieee-open-source-week-10.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/IEEE%20Open%20Source%20Week%2010.0-Visit%20Website-B31B34?style=for-the-badge&logo=vercel&logoColor=white" alt="IEEE Open Source Week 10.0">
+</a>
 </div>
 
 ---
