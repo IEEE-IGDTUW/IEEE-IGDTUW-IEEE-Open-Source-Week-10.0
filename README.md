@@ -47,7 +47,20 @@
 
 
 ### 🗂️ Project List
-COMING SOON!!
+
+| S.No | Project | Domain / Tech Stack | Project GitHub Link | Maintainer(s) |
+|---:|---|---|---|---|
+| 1 | One File Tools | Web Development (HTML5, CSS3, JavaScript) | [Repository](https://github.com/praveenscience/One-File-Tools) | [Praveen Kumar Purushothaman](https://github.com/praveenscience) |
+| 2 | Forge | Web Development (Next.js 14, TypeScript, Tailwind CSS, Node.js) | [Repository](https://github.com/Varadraj75/Forge) | [Varad Raj Agrawal](https://github.com/Varadraj75) |
+| 3 | pipOS | Web Development (JavaScript, HTML, CSS) | [Repository](https://github.com/Tech4Aditya/pipOS) | [Aditya Pandey](https://github.com/Tech4Aditya) |
+| 4 | Sahay | Web Development (React, TypeScript, Tailwind CSS, Node.js, Express.js, REST APIs) | [Repository](https://github.com/archangel2006/sahay/) | [Vaibhavi Srivastava](https://github.com/archangel2006) |
+| 5 | Swasthya Sathi AI | AI/ML (Python, Google ADK, Gemini API, AI Agents, REST APIs) | [Repository](https://github.com/SunnyAgrwl05/Swasthya-Sathi-AI) | [Sunny Kumar](https://github.com/SunnyAgrwl05) |
+| 6 | AlgoShelf | Web Development (React, TypeScript, Tailwind CSS) | [Repository](https://github.com/guptagauri04/AlgoShelf) | [Gauri Gupta](https://github.com/guptagauri04) |
+| 7 | Dot | Android Development (Kotlin, Jetpack Compose, Material 3, AndroidX Media3) | [Repository](https://github.com/dhananjay6561/dot) | [Dhananjay Aggarwal](https://github.com/dhananjay6561) |
+| 8 | HackHub | Web Development (Next.js, React, TypeScript, Node.js, Express.js, MongoDB, Tailwind CSS, Gemini API) | [Repository](https://github.com/aasthag01-26/HackHub---Hackathon-Platform) | [Aastha Goyal](https://github.com/aasthag01-26) |
+| 9 | Sedim | Developer Tools / CLI (JavaScript, TypeScript) | [Repository](https://github.com/Sedimie/Sedim) | [Siddharth Bansal](https://github.com/sidd190) |
+| 10 | Quizza | Open Source / Quiz Application (JavaScript, TypeScript) | [Repository](https://github.com/USAR-FOSS/Quizza) | [Siddharth Bansal](https://github.com/sidd190) |
+| 11 | Dimsee | Authentication / Identity (JavaScript, TypeScript) | [Repository](https://github.com/sidd190/Dimsee) | [Siddharth Bansal](https://github.com/sidd190) |
 
 ---
 
